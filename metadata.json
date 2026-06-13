@@ -1,0 +1,6 @@
+{
+  "name": "Agricultural Optimizer Agent",
+  "description": "An AI-powered multi-agent simulation sandbox that optimizes crop planning, resource allocation, precision harvesting, and FPO market aggregation to maximize cumulative farmer profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
